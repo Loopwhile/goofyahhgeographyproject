@@ -1,0 +1,14 @@
+* {
+    background-color: #0D1B2A;
+    color:  #E0E1DD;
+    font-family: sans-serif;
+}
+
+a {
+    background-color: #1B263B;
+    border: 5px dotted #415A77;
+    color: #778da9;
+}
+a:hover {
+    border: 5px solid #415A77;
+}
